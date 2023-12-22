@@ -7,7 +7,7 @@ h1,h2,h3,h4,h5,h6{
 
 #hero{
   position: relative;
-  background-image: url(../img/hero.png);
+  background-image: url(../img/hero.jpg);
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
@@ -41,7 +41,7 @@ h1,h2,h3,h4,h5,h6{
 }
 
 #resource{
-  background-image:url(../img/farm.png);
+  background-image:url(../img/farm.jpg);
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
@@ -52,7 +52,7 @@ h1,h2,h3,h4,h5,h6{
 }
 
 #cullinary{
-  background-image:url(../img/tumpeng.png);
+  background-image:url(../img/tumpeng.jpg);
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
